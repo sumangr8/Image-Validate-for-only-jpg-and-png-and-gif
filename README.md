@@ -1,0 +1,1 @@
+# Image-Validate-for-only-jpg-and-png-and-gif
